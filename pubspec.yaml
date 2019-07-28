@@ -30,6 +30,7 @@ dependencies:
   sqflite: ^1.1.5 
   location: ^2.3.5
   google_maps_flutter: ^0.5.19+2
+  http: ^0.12.0+2
 
 
 dev_dependencies:
